@@ -1,6 +1,6 @@
 # UX Portfolio
 
-About me...
+My name is Luke Burkhardt and I am a business finance student.  
 
 ## UX Team Project
 
